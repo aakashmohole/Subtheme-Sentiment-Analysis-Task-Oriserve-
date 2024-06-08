@@ -47,6 +47,26 @@ This project aims to develop a sentiment analysis model using deep learning tech
 - The trained model is deployed as a web application using Gradio.
 - Users can input text and get sentiment predictions through a user-friendly interface.
 
+## Usage
+To run the Gradio app locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/sentiment-analysis-project.git
+    cd sentiment-analysis-project
+    ```
+
+2. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the Gradio app:
+    ```bash
+    python app.py
+    ```
+4. Open your web browser and navigate to the provided URL to use the app.
+
 
 ## Conclusion
 - The sentiment analysis model successfully predicts the sentiment of textual reviews.
