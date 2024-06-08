@@ -52,8 +52,7 @@ To run the Gradio app locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-project.git
-    cd sentiment-analysis-project
+    https://github.com/aakashmohole/Subtheme-Sentiment-Analysis-Task-Oriserve-.git
     ```
 
 2. Install the required packages:
