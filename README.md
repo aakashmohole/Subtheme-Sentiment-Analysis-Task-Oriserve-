@@ -1,4 +1,4 @@
-# Sentiment Analysis Task
+# Subthem Sentiment Analysis Task
 
 ## Overview
 This project aims to develop a sentiment analysis model using deep learning techniques to predict the sentiment (positive or negative) of textual reviews. The model is trained on a dataset containing labeled reviews and deployed as a web application using gradio.
